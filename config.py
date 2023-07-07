@@ -83,27 +83,27 @@ PING_IMG_URL = getenv(
     "https://telegra.ph/file/a8f9866aaa89eeb3373ba.jpg",
 )
 
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/3b4a340465a75c1c40eb6.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/a8f9866aaa89eeb3373ba.jpg"
 
-GLOBAL_IMG_URL = "https://te.legra.ph/file/3b4a340465a75c1c40eb6.jpg"
+GLOBAL_IMG_URL = "https://telegra.ph/file/a8f9866aaa89eeb3373ba.jpg"
 
-STATS_IMG_URL = "https://te.legra.ph/file/3b4a340465a75c1c40eb6.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/a8f9866aaa89eeb3373ba.jpg"
 
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/3b4a340465a75c1c40eb6.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/a8f9866aaa89eeb3373ba.jpg"
 
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/3b4a340465a75c1c40eb6.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/a8f9866aaa89eeb3373ba.jpg"
 
-STREAM_IMG_URL = "https://te.legra.ph/file/3b4a340465a75c1c40eb6.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/a8f9866aaa89eeb3373ba.jpg"
 
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/3b4a340465a75c1c40eb6.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/a8f9866aaa89eeb3373ba.jpg"
 
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/3b4a340465a75c1c40eb6.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/a8f9866aaa89eeb3373ba.jpg"
 
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/3b4a340465a75c1c40eb6.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/a8f9866aaa89eeb3373ba.jpg"
 
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/3b4a340465a75c1c40eb6.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/a8f9866aaa89eeb3373ba.jpg"
 
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/3b4a340465a75c1c40eb6.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/a8f9866aaa89eeb3373ba.jpg"
 
 
 def time_to_seconds(time):
@@ -130,9 +130,9 @@ if UPSTREAM_REPO:
 if PING_IMG_URL:
     if PING_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
-            PING_IMG_URL = "https://te.legra.ph/file/3b4a340465a75c1c40eb6.jpg"
+            PING_IMG_URL = "https://telegra.ph/file/a8f9866aaa89eeb3373ba.jpg"
 
 if START_IMG_URL:
     if START_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", START_IMG_URL):
-            START_IMG_URL = "https://te.legra.ph/file/3b4a340465a75c1c40eb6.jpg"
+            START_IMG_URL = "https://telegra.ph/file/a8f9866aaa89eeb3373ba.jpg"
