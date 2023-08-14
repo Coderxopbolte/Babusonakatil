@@ -21,7 +21,7 @@
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+TEAM+KATIL+🎭">
 <p align="center">
-  <img src="https://telegra.ph/file/ff3d94744211c796cf5bb.jpg">
+  <img src="https://graph.org/file/cfa1f010705dc5e9ca4d2.jpg  ">
 </p>
 
 **𝘽𝙊𝙏 ➣ [BABU SONA ✘](https://t.me/BABU_SONABOT)**
